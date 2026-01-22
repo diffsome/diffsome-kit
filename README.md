@@ -45,7 +45,6 @@ Claude Code plugin for [Diffsome](https://diffsome.com) - Multi-tenant Headless 
 |-------|-------------|
 | `/diffsome-kit:reservations` | Booking and reservation system |
 | `/diffsome-kit:entities` | Custom dynamic data structures |
-| `/diffsome-kit:themes` | Theme management and AI generator |
 | `/diffsome-kit:agents` | AI-powered automation agents |
 
 ## Authentication
