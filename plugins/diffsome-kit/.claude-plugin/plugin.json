@@ -1,0 +1,24 @@
+{
+  "name": "diffsome-kit",
+  "description": "Diffsome Platform - Headless CMS, E-commerce & AI Content Generation",
+  "version": "1.0.0",
+  "author": {
+    "name": "diffsome",
+    "email": "diffsome@diffsome.com",
+    "url": "https://diffsome.com"
+  },
+  "homepage": "https://docs.diffsome.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diffsome/diffsome-kit.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "cms",
+    "headless",
+    "ecommerce",
+    "multi-tenant",
+    "api",
+    "ai-content"
+  ]
+}

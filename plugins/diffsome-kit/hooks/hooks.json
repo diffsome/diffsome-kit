@@ -1,0 +1,9 @@
+{
+  "hooks": [
+    {
+      "event": "on_plugin_install",
+      "type": "command",
+      "command": ["echo", "diffsome-kit installed! Run /diffsome-kit:login to authenticate."]
+    }
+  ]
+}

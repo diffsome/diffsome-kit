@@ -1,0 +1,21 @@
+{
+  "name": "diffsome-kit",
+  "owner": {
+    "name": "diffsome",
+    "email": "diffsome@diffsome.com"
+  },
+  "metadata": {
+    "description": "Diffsome Platform Tools - Headless CMS, E-commerce & AI Content",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "diffsome-kit",
+      "source": "./plugins/diffsome-kit",
+      "description": "Complete Diffsome API integration for Claude Code",
+      "version": "1.0.0",
+      "keywords": ["cms", "ecommerce", "headless", "api", "saas", "multi-tenant"],
+      "category": "developer-tools"
+    }
+  ]
+}
