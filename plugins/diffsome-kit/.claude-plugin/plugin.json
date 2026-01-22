@@ -7,7 +7,7 @@
     "email": "diffsome@diffsome.com",
     "url": "https://diffsome.com"
   },
-  "homepage": "https://docs.diffsome.com",
+  "homepage": "https://diffsome.com/docs",
   "repository": {
     "type": "git",
     "url": "https://github.com/diffsome/diffsome-kit.git"
