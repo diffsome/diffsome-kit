@@ -126,7 +126,7 @@ Base URL: `https://www.diffsome.com/api/{tenant}/`
 
 Authentication: `X-API-Key: pky_xxx` header
 
-Full API documentation: [docs.diffsome.com](https://docs.diffsome.com)
+Full API documentation: [docs.diffsome.com](https://diffsome.com/docs)
 
 ## Diffsome Platform
 
