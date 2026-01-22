@@ -105,10 +105,6 @@ await client.auth.login({
 /diffsome-kit:entities
 > Create a 'leads' entity with name, email, source fields
 
-# Themes
-/diffsome-kit:themes
-> Generate a dark theme with purple accents for e-commerce
-
 # AI Agents
 /diffsome-kit:agents
 > Run content-writer agent with topic "AI trends 2026"
